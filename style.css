@@ -159,7 +159,7 @@ footer a{
     }
     
 }
-@media(max-width:760px){
+@media(max-width:530px){
   nav a{
      font-size: 20px; 
   }
