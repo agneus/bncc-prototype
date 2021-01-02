@@ -159,3 +159,17 @@ footer a{
     }
     
 }
+@media(max-width:760px){
+  nav a{
+     font-size: 20px; 
+  }
+  footer{
+      flex-wrap:wrap;
+  }
+  footer a{
+      padding: 10px 10px 0 10px;
+  }
+      
+  
+    
+}
